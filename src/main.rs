@@ -1,4 +1,3 @@
-use image::{imageops::ColorMap, Pixel};
 fn main() {
     let mut args: Vec<String> = std::env::args().skip(1).collect();
     if args.is_empty() {
@@ -94,7 +93,6 @@ fn main() {
         _ => {
             print_usage_and_exit();
         }
-        
     }
 }
 
@@ -110,9 +108,7 @@ rotate <image> <integer> <output>: rotate image (integer = 1 rotates by 90 degre
 invert <image> <output>: invert imag\
 grayscale <image> <output>: grayscale image
 generate <red> <green> <blue> <output>: generates a 800x800 solid image
-fractal <output>: generates a simple 800x800 fractal image
-        "
-        
+fractal <output>: generates a simple 800x800 fractal image"    
     );
     std::process::exit(-1);
 }
@@ -215,5 +211,3 @@ fn fractal(outfile: String) {
 
     imgbuf.save(outfile).unwrap();
 }
-
-
