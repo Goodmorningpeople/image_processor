@@ -1,0 +1,7 @@
+/Users/ihateapple/Documents/image_processor/target/debug/deps/libcolorchoice-07f2d70e68e92460.rmeta: /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorchoice-1.0.3/src/lib.rs
+
+/Users/ihateapple/Documents/image_processor/target/debug/deps/libcolorchoice-07f2d70e68e92460.rlib: /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorchoice-1.0.3/src/lib.rs
+
+/Users/ihateapple/Documents/image_processor/target/debug/deps/colorchoice-07f2d70e68e92460.d: /Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorchoice-1.0.3/src/lib.rs
+
+/Users/ihateapple/.cargo/registry/src/index.crates.io-6f17d22bba15001f/colorchoice-1.0.3/src/lib.rs:
